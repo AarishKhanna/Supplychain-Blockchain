@@ -1,0 +1,165 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-image: url("https://media.istockphoto.com/vectors/white-half-tone-background-vector-id1170028399?k=20&m=1170028399&s=612x612&w=0&h=nX4D1t1sa3EpW_ZPJ-Xu9BDRJjhScR4ON_nLX1_gSFA=");
+}
+.temp {
+  margin: 50px auto;
+  text-align: center;
+
+    text-transform: uppercase;
+    font-family: verdana;
+    font-size: 1em;
+    font-weight: 700;
+    color: rgba(9, 18, 72, 0.733);
+    text-shadow: 1px 1px 1px #919191,
+        1px 2px 1px #919191,
+        1px 3px 1px #919191,
+        1px 4px 1px #919191,
+        1px 5px 1px #919191,
+        1px 6px 1px #919191,
+        1px 7px 1px #919191,
+        1px 8px 1px #919191,
+        1px 9px 1px #919191,
+        1px 10px 1px #919191,
+    1px 18px 6px rgba(16,16,16,0.4),
+    1px 22px 10px rgba(16,16,16,0.2),
+    1px 25px 35px rgba(16,16,16,0.2),
+    1px 30px 60px rgba(16,16,16,0.4);
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.temp2{
+  margin-left: 12px;
+  margin-right: 12px;
+  margin-top: 120px;
+  margin-bottom: 40px;
+  text-align: center;
+
+    text-transform: uppercase;
+    font-family: verdana;
+    font-size: 1em;
+    font-weight: 700;
+    color: black(6, 6, 6, 0.733);
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 10px;
+
+
+
+}
+
+.temp6{
+  margin-left: 12px;
+  margin-right: 12px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  display: block;
+
+    text-transform: uppercase;
+    font-family: verdana;
+    font-weight: 700;
+    color: black(6, 6, 6, 0.733);
+    font-family: Arial, Helvetica, sans-serif;
+}
+input[type=text] {
+  width: 20%;
+  display: inline-block;
+  padding: 4px 12px;
+  margin-left: 12px;
+  margin-right: 8px;
+  margin-top: 12px;
+  margin-bottom: 12px;
+  box-sizing: border-box;
+  font-family: "Amazon Ember",Arial,sans-serif;
+  text-decoration: none;
+  text-overflow: ellipsis;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  white-space: nowrap;
+
+}
+
+
+.button-14 {
+  margin-left: 12px;
+  margin-right: 12px;
+  margin-top: 12px;
+  margin-bottom: 12px;
+  background-image: linear-gradient(#f7f8fa ,#e7e9ec);
+  border-color: #adb1b8 #a2a6ac #8d9096;
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 3px;
+  box-shadow: rgba(255,255,255,.6) 0 1px 0 inset;
+  box-sizing: border-box;
+  color: #0f1111;
+  cursor: pointer;
+  display: inline-block;
+  font-family: "Amazon Ember",Arial,sans-serif;
+  font-size: 14px;
+  height: 29px;
+  font-size: 13px;
+  outline: 0;
+  overflow: hidden;
+  padding: 0 11px;
+  text-align: center;
+  text-decoration: none;
+  text-overflow: ellipsis;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  white-space: nowrap;
+}
+
+.button-14:active {
+  border-bottom-color: #a2a6ac;
+}
+
+.button-14:active:hover {
+  border-bottom-color: #a2a6ac;
+}
+
+.button-14:hover {
+  border-color: #a2a6ac #979aa1 #82858a;
+}
+
+.button-14:focus {
+  border-color: #e77600;
+  box-shadow: rgba(228, 121, 17, .5) 0 0 3px 2px;
+  outline: 0;
+}
+.button {
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+
+.temp5{
+  margin-left: 12px;
+  margin-right: 12px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  display: block;
+
+    text-transform: uppercase;
+    font-family: verdana;
+    font-weight: 700;
+    color: black(6, 6, 6, 0.733);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
