@@ -1,40 +1,36 @@
-# React Truffle Box
+# Supply Chain Blockchain D-App
 
-This box comes with everything you need to start using Truffle to write, compile, test, and deploy smart contracts, and interact with them from a React app.
+This Decentralized Application is designed with blockchain technology using solidity, truffle, web3.js and front-end development.
 
-## Installation
 
-First ensure you are in an empty directory.
+## How to Use the D-App
 
-Run the `unbox` command using 1 of 2 ways.
+Metamask is necessary to use the app.
+Make sure you have an account on it. Go to Chrome-extensions to add Metamask.
 
-```sh
-# Install Truffle globally and run `truffle unbox`
-$ npm install -g truffle
-$ truffle unbox react
-```
+This project is Deployed on Rinkeby Testnet. Fund your account with some rinkeby test ether to use the D-app.
+You can visit rinkeby etherscan for previous transaction history that you will have on this D-App.
 
-```sh
-# Alternatively, run `truffle unbox` via npx
-$ npx truffle unbox react
-```
 
-Start the react dev server.
+# Aim of the D-App:
 
-```sh
-$ cd client
-$ npm start
-  Starting the development server...
-```
+This D-app is more secure, efficient, trust worthy solution for Supply Chain Problem
+In this D-app you can create your item, put it for selling, after the item is bought,
+you can put it for delievery, and after delievery you can mark it as delievered.
 
-From there, follow the instructions on the hosted React app. It will walk you through using Truffle and Ganache to deploy the `SimpleStorage` contract, making calls to it, and sending transactions to change the contract's state.
+All the steps will be written on the blockchain, thus no chance of fraud is there.
 
-## FAQ
+Project is powered by robust smart contracts written with solidity.
 
-- __How do I use this with Ganache (or any other network)?__
 
-  The Truffle project is set to deploy to Ganache by default. If you'd like to change this, it's as easy as modifying the Truffle config file! Check out [our documentation on adding network configurations](https://trufflesuite.com/docs/truffle/reference/configuration/#networks). From there, you can run `truffle migrate` pointed to another network, restart the React dev server, and see the change take place.
+# Refer below PPT to understand basics of Blockchain Technology:
 
-- __Where can I find more resources?__
+https://docs.google.com/presentation/d/1Z7CeTDxLTsJjEND3nPqfZxI_9te2fLmR/edit#slide=id.p2
 
-  This Box is a sweet combo of [Truffle](https://trufflesuite.com) and [Create React App](https://create-react-app.dev). Either one would be a great place to start!
+# Below image depicts what the project offers:
+
+
+![Implementing-Blockchain-in-Supply-Chain_0](https://user-images.githubusercontent.com/68593746/187968918-e2653665-42ee-4c1a-a101-49d708abb47b.jpeg)
+
+
+
